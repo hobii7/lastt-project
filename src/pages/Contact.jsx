@@ -25,7 +25,7 @@ const Contact = () => {
       <div className="w-full max-w-4xl grid md:grid-cols-2 gap-8 mt-10">
         {/* Contact Info */}
         <div className="bg-white p-6 rounded-xl shadow flex flex-col gap-6">
-          <h2 className="text-2xl font-semibold">Get in Touch</h2>
+          <h2 className="text-2xl font-semibold">Get in Touch?</h2>
           <p className="text-gray-600">
             We'd love to hear from you! Reach out for questions, feedback, or support.
           </p>
@@ -33,11 +33,11 @@ const Contact = () => {
           <div className="flex flex-col gap-4 text-gray-700">
             <div>
               <span className="font-semibold">Address: </span>
-              123 MyStore St, Phnom Penh, Cambodia
+              777 Hobi-Store St, Seoul, South Korea
             </div>
             <div>
               <span className="font-semibold">Email: </span>
-              <a href="">sreyleak@gmail.com</a>
+              <a href="">Jhope@gmail.com</a>
             </div>
             <div>
               <span className="font-semibold">Phone: </span>
